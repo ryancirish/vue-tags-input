@@ -70,7 +70,7 @@ div.vue-tags-input.disabled {
 }
 
 .ti-input {
-  border: 1px solid #ccc;
+  border: none !important;
   display: flex;
   padding: 4px;
   flex-wrap: wrap;
